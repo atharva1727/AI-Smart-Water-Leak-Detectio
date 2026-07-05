@@ -49,7 +49,7 @@ An integrated **AI Assistant**, powered by Groq's LLaMA models, lets users ask n
 
 ## ⚙️ System Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](https://github.com/atharva1727/AI-Smart-Water-Leak-Detectio/blob/main/architecture%20(1).png)
 
 The pipeline flows from raw data to actionable insight in five stages:
 
