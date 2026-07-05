@@ -4,7 +4,7 @@ AI and IoT-powered dashboard that predicts water pipeline leaks from sensor data
 
 <div align="center">
 
-![Smart Water Leak Detection Banner](banner.png)
+![Smart Water Leak Detection Banner](https://github.com/atharva1727/AI-Smart-Water-Leak-Detectio/blob/main/banner%20(2).png)
 
 <br/>
 
