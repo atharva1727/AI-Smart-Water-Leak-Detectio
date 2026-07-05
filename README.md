@@ -76,7 +76,7 @@ Each sidebar option — Predict Leakage, What-if Analysis, Zone Map & Geo Analys
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](techstack.png)
+![Tech Stack](https://github.com/atharva1727/AI-Smart-Water-Leak-Detectio/blob/main/techstack%20(1).png)
 
 ### Core Framework
 
